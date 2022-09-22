@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+
+#info img{
+    width: 300px;
+    height: auto;
+}
+
+.navbar {
+    background-color: rgba(5, 16, 82, 0.8);
+    text-align: center;
+}
+
+.navbar a{
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.logo-pr {
+    width: 80px;
+    height: auto;
+}
+
+#info a{
+    color: #ffffff;
+}
